@@ -1,0 +1,4 @@
+# Large data files
+data/raw/transactions_data.csv
+data/cleaned/master_dataset.csv
+data/cleaned/transactions_cleaned.csv

@@ -1,0 +1,2 @@
+total_transactions,unique_customers,unique_merchants,total_volume_usd,avg_txn_value_usd,median_txn_value_usd,error_transactions,error_rate_pct,total_reversals,online_transactions
+1330829,1219,33886,70575952.28,53.03,34.79,21019.0,1.58,65796.0,156630.0

@@ -1,0 +1,9 @@
+card_brand,card_type,txn_count,total_volume,avg_txn_value,error_rate_pct,high_risk_transactions
+Mastercard,Debit,526594,25781158.91,48.96,1.63,0.0
+Visa,Debit,301242,14675759.72,48.72,1.63,0.0
+Visa,Credit,166314,11386770.17,68.47,1.5,0.0
+Mastercard,Credit,125278,8193098.34,65.4,1.52,0.0
+Amex,Credit,85721,5801248.1,67.68,1.55,0.0
+Discover,Credit,33662,2205365.4,65.51,1.51,0.0
+Mastercard,Debit (Prepaid),63354,1751406.56,27.64,1.42,0.0
+Visa,Debit (Prepaid),28664,781145.08,27.25,1.42,0.0

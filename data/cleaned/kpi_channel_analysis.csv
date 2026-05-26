@@ -1,0 +1,4 @@
+channel,txn_count,txn_share_pct,total_volume,avg_txn_value,error_rate_pct
+In-Store Swipe,697020,52.37,36584999.54,52.49,1.47
+In-Store Chip,477713,35.9,24723863.56,51.75,1.52
+Online,156096,11.73,9267089.18,59.37,2.25
